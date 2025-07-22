@@ -17,6 +17,14 @@ This repository hosts my **ongoing product design projects, UX/UI explorations, 
 
 I believe in **designing with purpose** – solving real user problems, simplifying their digital interactions, and making their experiences more valuable and human-centred.
 
+## 🖌️ Projects
+
+### Google Homepage Quick Redesign
+
+![Google Homepage Redesign](google-homepage-redesign.png)
+
+*Added a quick-access dark mode toggle.*
+
 ## 📈 **Upcoming Projects**
 
 - Redesign of onboarding flow for [Twitter onboarding, a fintech signup flow]  
